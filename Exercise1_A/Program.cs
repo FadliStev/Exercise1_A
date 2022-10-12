@@ -68,7 +68,7 @@ namespace Exercise1_A
                 {
                    
 
-                    if (Fad[wf] < Fad [wf + 1])   // Jika elemen pada urutan yang salah
+                    if (Fad[wf] < Fad [wf + 1])   // Jika elemen pada urutan yang salahw
                     {
                         //tukar elemen 
                         temp = Fad[wf];
